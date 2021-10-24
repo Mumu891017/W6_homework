@@ -17,15 +17,9 @@ a:visited {
 	color: #00D8FF;
 }
 
-*
-{
-border: 0;
-margin: 0;
-}
-
 body
 {
-	width: 1199px;
+	
 	margin: auto;
 	font: 12px Tahoma, Arial, Helvetica, sans-serif;
 	color: #666666;
@@ -39,14 +33,12 @@ body
 #main
 {
 margin: 0 auto;
-
 background: #ADE8FC;
 border: 15px solid #ADE8FC;
 margin-bottom: 30px
 }
 
-#header
-{
+#header{
 width: 998px;
 margin: 0 auto;
 height: 327px;
